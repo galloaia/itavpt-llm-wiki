@@ -9,11 +9,11 @@ tags: [moc]
 Vault di allenamento del modulo data-driven (ITAVPT · AI Advertising). Sorgente atomica: ogni nozione, prompt, sessione, entità e fonte è un file. Il grafo emerge dai `[[link]]`.
 
 ## Mappe
-- [[MOC - Concetti]] — la teoria, nozione per nozione
-- [[MOC - Prompt library]] — i prompt che funzionano, per uso
-- [[MOC - Diario delle sessioni]] — cosa è successo in aula, S1→S4
-- [[MOC - Il caso Filo Studio]] — brand, dataset, personaggi
-- [[MOC - Fonti]] — i riferimenti esterni, sintetizzati e linkati
+- [MOC - Concetti](<MOC - Concetti.md>) — la teoria, nozione per nozione
+- [MOC - Prompt library](<MOC - Prompt library.md>) — i prompt che funzionano, per uso
+- [MOC - Diario delle sessioni](<MOC - Diario delle sessioni.md>) — cosa è successo in aula, S1→S4
+- [MOC - Il caso Filo Studio](<MOC - Il caso Filo Studio.md>) — brand, dataset, personaggi
+- [MOC - Fonti](<MOC - Fonti.md>) — i riferimenti esterni, sintetizzati e linkati
 
 ## Come funziona
 - Leggi/aggiorna in Obsidian (grafo, ricerca, tag).
